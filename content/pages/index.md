@@ -16,7 +16,7 @@ sections:
         icon: arrow-right
         icon_position: right
     image: images/marketing-playbook.png
-    image_alt: 'EL '
+    image_alt: 'EL PETROLEO Y EL GAS '
     media_position: left
     media_width: fourty
     align: left
