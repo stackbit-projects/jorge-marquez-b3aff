@@ -131,5 +131,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://jorge-marquez-b3aff.netlify.app"
 }
