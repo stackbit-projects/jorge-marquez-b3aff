@@ -161,7 +161,7 @@ sections:
         media_width: fifty
     feature_padding_vert: small
     align: center
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: Who Should Read This Book?
     grid_items:
