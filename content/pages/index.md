@@ -21,7 +21,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     image_alt: PETROLEO
   - type: grid_section
     title: 'Read by marketers at:'
