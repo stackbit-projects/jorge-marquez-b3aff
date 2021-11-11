@@ -6,8 +6,9 @@ sections:
       El Petróleo y
       el Gas en la Geopolítica de las Naciones
     subtitle: Your guide to B2B marketing in the real world.
-    content: |
-      ![](/images/silueta%20cabeza%20negra.png)
+    content: |+
+      no se nose 
+
     actions:
       - label: Get the book
         url: /pricing
