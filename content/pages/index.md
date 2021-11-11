@@ -280,6 +280,7 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: none
+    background_image: /images/background.jpg
   - type: cta_section
     title: Download the e-book today
     actions:
