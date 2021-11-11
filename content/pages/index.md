@@ -17,7 +17,7 @@ sections:
         icon_position: right
     image: /images/PRUEBA foto petroleo.png
     media_position: left
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
