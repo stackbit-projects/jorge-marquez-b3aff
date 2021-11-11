@@ -22,7 +22,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     background_color: none
     image_alt: PETROLEO
   - type: grid_section
