@@ -24,6 +24,7 @@ sections:
     padding_bottom: large
     background_color: none
     image_alt: PETROLEO
+    section_id: nuevo
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
