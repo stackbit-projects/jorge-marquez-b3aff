@@ -1,29 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: |-
-      El Petróleo y
-      el Gas en la Geopolítica de las Naciones
-    subtitle: Your guide to B2B marketing in the real world.
-    content: |+
-      no se nose 
-
-    actions:
-      - label: Get the book
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    image: /images/PRUEBA foto petroleo.png
-    media_position: left
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    image_alt: PETROLEO
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
