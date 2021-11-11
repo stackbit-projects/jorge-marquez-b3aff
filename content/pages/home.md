@@ -2,8 +2,6 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    content: |
-      *
     actions: []
     image_alt: lorem-ipsum
     media_position: top
