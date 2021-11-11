@@ -275,7 +275,7 @@ sections:
           you'll ever need.
         image: images/brandon-guidelines.jpg
         image_alt: Brandon Guidelines Photo
-        media_position: top
+        media_position: right
         media_width: fourty
     feature_padding_vert: small
     align: center
