@@ -29,7 +29,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-  - section_id: lorem-ipsum
+  - section_id: nuevo
     title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
